@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '31823'
     url: http://www.gutenberg.org/2009/agents/31823
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26145#The-Tell-El-Amarna-Period
 gutenberg_issued: '2008-07-29'
 gutenberg_type: Text
 identifiers:
