@@ -1,0 +1,36 @@
+_repo: The-Tell-El-Amarna-Period_26145
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hutchison, J. (Jane)
+    alias: Hutchison, Jane
+    gutenberg_agent_id: '31828'
+    url: http://www.gutenberg.org/2009/agents/31828
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Niebuhr, Carl
+    alias: Krug, Carl
+    birthdate: 1861
+    deathdate: 1927
+    gutenberg_agent_id: '31823'
+    url: http://www.gutenberg.org/2009/agents/31823
+description: ''
+gutenberg_issued: '2008-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26145'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- History, Ancient'
+- !lcsh 'Tell el-Amarna (Egypt)'
+- !lcsh 'Middle East -- History'
+- !lcc 'DS'
+- !lcsh 'Palestine -- History'
+title: The Tell El Amarna Period
+url: http://www.gutenberg.org/ebooks/26145
